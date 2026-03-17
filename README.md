@@ -88,8 +88,11 @@ No matter where you pause, there's always room for improvement.
 
 ## Professional Experience
 
+**CEO**, AI, obrt za informatičke usluge, vl. Mate Nakić (Full-time)  
+_Jun 2025 – Present | Pula, Croatia (Hybrid)_
+
 **Infrastructure Specialist**, Superius d.o.o. (Full-time)  
-_Feb 2025 – Present | Pula, Croatia (On-site)_
+_Feb 2025 – Jun 2025 | Pula, Croatia (On-site)_
 
 **Full-stack Developer**, Zara Promet (Full-time)  
 _Mar 2021 – Feb 2025 | Zadar, Croatia (Hybrid)_
@@ -112,8 +115,3 @@ _Nov 2019 – Nov 2020 | Zagreb, Croatia (On-site)_
 - Software Architecture
 - AWS
 - Microservices and High Availability
-
-## Stack Preferences
-- **Infrastructure:** Kubernetes / Containers
-- **Backend:** PHP
-- **Frontend:** React
